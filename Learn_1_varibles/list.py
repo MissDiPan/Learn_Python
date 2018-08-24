@@ -7,6 +7,7 @@ list_b = ["hello"]
 print(list_a[0])
 print(list_a[1:3])
 print(list_a[1:])
+print(list_a[-1])  # the end one 4
 print(list_b * 2)
 print(list_a + list_b)
 
